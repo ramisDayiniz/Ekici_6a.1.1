@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a464dfa-04d8-4ee8-9afc-3bf8099523fb" name="Changes" comment="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt.">
+    <list default="true" id="6a464dfa-04d8-4ee8-9afc-3bf8099523fb" name="Changes" comment="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestListTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestListTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.TestListTester.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -91,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740512061329</updated>
-      <workItem from="1740512062657" duration="4800000" />
+      <workItem from="1740512062657" duration="8477000" />
     </task>
     <task id="LOCAL-00001" summary="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt.">
       <option name="closed" value="true" />
@@ -109,15 +110,35 @@
       <option name="project" value="LOCAL" />
       <updated>1740514611465</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen.">
+      <option name="closed" value="true" />
+      <created>1740517520918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740517520918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt." />
     <MESSAGE value="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt." />
-    <option name="LAST_COMMIT_MESSAGE" value="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt." />
+    <MESSAGE value="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen." />
+    <option name="LAST_COMMIT_MESSAGE" value="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen." />
   </component>
 </project>
