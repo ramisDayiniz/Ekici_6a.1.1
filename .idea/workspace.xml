@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Ekici_6a.1.1:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a464dfa-04d8-4ee8-9afc-3bf8099523fb" name="Changes" comment="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen.">
+    <list default="true" id="6a464dfa-04d8-4ee8-9afc-3bf8099523fb" name="Changes" comment="ListTester Klasse wurde mit seinen Methoden gemessen und vollständig getestet. Das Protokoll für das Testen und die Interpretation wurde ebenso in doc Ordner hochgeladen.">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Ekici_6a_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestListTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestListTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Ekici_LinkedVsArray.asta" beforeDir="false" afterPath="$PROJECT_DIR$/design/Ekici_LinkedVsArray.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/Ekici_LinkedVsArray_UML.png" beforeDir="false" afterPath="$PROJECT_DIR$/design/Ekici_LinkedVsArray_UML.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +60,19 @@
     "Application.TestListTester.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ekici/IdeaProjects/Ekici_6a.1.1/src",
+    "last_opened_file_path": "C:/Users/ekici/IdeaProjects/Ekici_6a.1.1/jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -92,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740512061329</updated>
-      <workItem from="1740512062657" duration="8477000" />
+      <workItem from="1740512062657" duration="9838000" />
     </task>
     <task id="LOCAL-00001" summary="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt.">
       <option name="closed" value="true" />
@@ -118,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740517520918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ListTester Klasse wurde mit seinen Methoden gemessen und vollständig getestet. Das Protokoll für das Testen und die Interpretation wurde ebenso in doc Ordner hochgeladen.">
+      <option name="closed" value="true" />
+      <created>1740524288167</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740524288167</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +160,8 @@
     <MESSAGE value="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt." />
     <MESSAGE value="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt." />
     <MESSAGE value="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen." />
-    <option name="LAST_COMMIT_MESSAGE" value="ListTester Klasse und ihre Methoden wurden fertig erstellt und ist bereit zum Testen." />
+    <MESSAGE value="ListTester Klasse wurde mit seinen Methoden gemessen und vollständig getestet." />
+    <MESSAGE value="ListTester Klasse wurde mit seinen Methoden gemessen und vollständig getestet. Das Protokoll für das Testen und die Interpretation wurde ebenso in doc Ordner hochgeladen." />
+    <option name="LAST_COMMIT_MESSAGE" value="ListTester Klasse wurde mit seinen Methoden gemessen und vollständig getestet. Das Protokoll für das Testen und die Interpretation wurde ebenso in doc Ordner hochgeladen." />
   </component>
 </project>
