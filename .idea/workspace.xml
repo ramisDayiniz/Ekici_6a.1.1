@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a464dfa-04d8-4ee8-9afc-3bf8099523fb" name="Changes" comment="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt.">
-      <change afterPath="$PROJECT_DIR$/src/StackEmptyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackFullException.java" afterDir="false" />
+    <list default="true" id="6a464dfa-04d8-4ee8-9afc-3bf8099523fb" name="Changes" comment="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,7 @@
       <recent name="C:\Users\ekici\IdeaProjects\Ekici_6a.1.1\design" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ekici\IdeaProjects\Ekici_6a.1.1\design" />
       <recent name="C:\Users\ekici\IdeaProjects\Ekici_6a.1.1" />
     </key>
   </component>
@@ -91,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740512061329</updated>
-      <workItem from="1740512062657" duration="2410000" />
+      <workItem from="1740512062657" duration="4800000" />
     </task>
     <task id="LOCAL-00001" summary="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt.">
       <option name="closed" value="true" />
@@ -101,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740512721630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt.">
+      <option name="closed" value="true" />
+      <created>1740514611465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740514611465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ordner Struktur wurde verbessert und eine Hello World Klasse zum Testen des Modules und Complier erstellt." />
+    <MESSAGE value="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt." />
+    <option name="LAST_COMMIT_MESSAGE" value="Astah UML Diagramm wurde hinzugefügt und die benötigte Klassen wurden mit entsprechenden Methoden erstellt." />
   </component>
 </project>
